@@ -1,4 +1,4 @@
-
+import random 
 def main():
 
     while True:
